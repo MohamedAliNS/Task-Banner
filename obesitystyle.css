@@ -1,0 +1,19 @@
+.header-bg {
+    height:960px;
+}
+.border-right-style {
+    color: #19AEC2;
+    border-right: 2px  dashed;
+}
+.border {
+    box-sizing: content-box;
+    background-color: #19AEC2;
+    text-align: center;
+}
+.border1 {
+    box-sizing: content-box;
+    background-color: #19AEC2;
+    text-align: center;
+    margin-top: 7px;
+}
+

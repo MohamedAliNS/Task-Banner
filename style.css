@@ -1,0 +1,7 @@
+.header-bg {
+    background-image: linear-gradient(to right top, #5940a8, #4c40a2, #403f9c, #333e95, #263c8e, #18428d, #08478c, #004c89, #005888, #006280, #006975, #296f6b);
+    height: 960px;
+}
+.menu-bg-transperant {
+    background-color: transparent !important;
+}
